@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Environment variables file
+.env
+
+# Built files
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Coverage output
+coverage/
+
+# Dependency directory created by yarn
+.yarn/
+
+# Mac OS
+*.DS_Store
+
+# Windows
+Thumbs.db
+
+credentials/
+registrationJSON.txt
+responseDataJSON.txt
